@@ -1,0 +1,1 @@
+C:\Users\ym\Documents\C1057352 - FakeFileSystemAssigment\FakeFileSystem-GTest\x64\Debug\FakeFileSystem-GTest.vcxproj.CopyComplete

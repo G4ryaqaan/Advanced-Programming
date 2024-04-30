@@ -1,0 +1,9 @@
+﻿  CommandLine.cpp
+  Directory.cpp
+  FakeFileSystem.cpp
+C:\Users\ym\Documents\hand-in\FakeFileSystem\FakeFileSystemX\FakeFileSystem.cpp(114,66): warning C4244: 'argument': conversion from 'uintmax_t' to 'int', possible loss of data
+  File.cpp
+  main.cpp
+  Generating Code...
+C:\Users\ym\Documents\hand-in\FakeFileSystem\FakeFileSystemX\FakeFileSystem.cpp(53): warning C4715: 'FakeFileSystem::changeDirectory': not all control paths return a value
+  FakeFileSystem.vcxproj -> C:\Users\ym\Documents\hand-in\FakeFileSystem\FakeFileSystemX\x64\Debug\FakeFileSystem.exe
